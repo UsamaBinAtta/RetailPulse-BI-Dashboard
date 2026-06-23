@@ -252,7 +252,7 @@ Analyze sales distribution across cities using map visualizations.
 
 # 1️⃣ Executive Overview
 
-![Executive Overview](https://github.com/UsamaBinAtta/Sales-Data-Analysis-/blob/main/Overview%20Screenshot.png)
+![Executive Overview](https://github.com/UsamaBinAtta/RetailPulse-BI-Dashboard/blob/main/Overview%20Screenshot.png)
 
 ## Purpose
 
@@ -344,7 +344,7 @@ Helps determine:
 
 # 2️⃣ Top & Bottom Product Analysis
 
-![Top Bottom Analysis](https://github.com/UsamaBinAtta/Sales-Data-Analysis-/blob/main/top_bottom_5_analysis.png)
+![Top Bottom Analysis](https://github.com/UsamaBinAtta/RetailPulse-BI-Dashboard/blob/main/top_bottom_5_analysis.png)
 
 ## Purpose
 
@@ -416,7 +416,7 @@ Supports decisions such as:
 
 # 3️⃣ Period Comparison Dashboard
 
-![Comparison Dashboard](https://github.com/UsamaBinAtta/Sales-Data-Analysis-/blob/main/Comparison.png)
+![Comparison Dashboard](https://github.com/UsamaBinAtta/RetailPulse-BI-Dashboard/blob/main/Comparison.png)
 
 ## Purpose
 
@@ -470,7 +470,7 @@ Enables data-driven decision-making by comparing historical and current performa
 
 # 4️⃣ Interactive Analysis Features
 
-![Interactive Features](https://github.com/UsamaBinAtta/Sales-Data-Analysis-/blob/main/Edit_interaction.png)
+![Interactive Features](https://github.com/UsamaBinAtta/RetailPulse-BI-Dashboard/blob/main/Edit_interaction.png)
 
 ## Purpose
 
@@ -527,7 +527,7 @@ Improves user experience through:
 
 # 5️⃣ Detailed Order Analysis
 
-![Detailed Table View](https://github.com/UsamaBinAtta/Sales-Data-Analysis-/blob/main/table_view.png)
+![Detailed Table View](https://github.com/UsamaBinAtta/RetailPulse-BI-Dashboard/blob/main/table_view.png)
 
 ## Purpose
 
@@ -684,31 +684,31 @@ The dashboard delivers measurable business value by:
 
 ## Executive Overview
 
-![Executive Overview](https://github.com/UsamaBinAtta/Sales-Data-Analysis-/blob/main/Overview%20Screenshot.png)
+![Executive Overview](https://github.com/UsamaBinAtta/RetailPulse-BI-Dashboard/blob/main/Overview%20Screenshot.png)
 
 ---
 
 ## Top & Bottom Product Analysis
 
-![Top Bottom Analysis](https://github.com/UsamaBinAtta/Sales-Data-Analysis-/blob/main/top_bottom_5_analysis.png)
+![Top Bottom Analysis](https://github.com/UsamaBinAtta/RetailPulse-BI-Dashboard/blob/main/top_bottom_5_analysis.png)
 
 ---
 
 ## Period Comparison Dashboard
 
-![Comparison Dashboard](https://github.com/UsamaBinAtta/Sales-Data-Analysis-/blob/main/Comparison.png)
+![Comparison Dashboard](https://github.com/UsamaBinAtta/RetailPulse-BI-Dashboard/blob/main/Comparison.png)
 
 ---
 
 ## Interactive Dashboard Features
 
-![Interactive Features](https://github.com/UsamaBinAtta/Sales-Data-Analysis-/blob/main/Edit_interaction.png)
+![Interactive Features](https://github.com/UsamaBinAtta/RetailPulse-BI-Dashboard/blob/main/Edit_interaction.png)
 
 ---
 
 ## Detailed Order Analysis
 
-![Detailed Table View](https://github.com/UsamaBinAtta/Sales-Data-Analysis-/blob/main/table_view.png)
+![Detailed Table View](https://github.com/UsamaBinAtta/RetailPulse-BI-Dashboard/blob/main/table_view.png)
 
 ---
 
